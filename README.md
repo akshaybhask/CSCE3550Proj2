@@ -1,4 +1,4 @@
-# CSCE3550Proj2
+# CSCE3550 Project 2
 Repo for CSCE3550 project2 
 
 To test the server and database:
