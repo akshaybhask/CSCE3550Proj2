@@ -1,5 +1,7 @@
 # CSCE3550 Project 2
-Repo for CSCE3550 project2 
+
+![image](https://github.com/akshaybhask/CSCE3550Proj2/assets/160355808/1f5a5ebc-49be-481d-939d-4565c35fd3c7)
+The above screenshot shows the test client functioning against the running server
 
 To test the server and database:
 1. Download jwks_dbserver.py file from the repo
